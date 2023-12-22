@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\sadra\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+        "C:\\Users\\sadra\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ],
+    "azureAutomation.directory.basePath": "c:\\Program Files\\Microsoft VS Code",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
